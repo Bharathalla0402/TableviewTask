@@ -36,6 +36,8 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        //hello hi
+        
        //Fetch data from local json file
         if let path = Bundle.main.path(forResource: "JsonFile", ofType: "txt") {
             do {
