@@ -1,0 +1,6 @@
+framework module Pods_TableviewTask {
+  umbrella header "Pods-TableviewTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
